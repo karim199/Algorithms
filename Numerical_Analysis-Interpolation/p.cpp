@@ -6,7 +6,7 @@ int main()
 {
     int i, j;
 
-	  cout<<"for Lagrange press 1, for Newton 2";
+    cout<<"for Lagrange press 1, for Newton 2";
     int answ;
     cin>>answ;
 
